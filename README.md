@@ -3,4 +3,4 @@ This repository contains coding problems in multiple languages used for Valerian
 
 ## Problems
 
-  * **[TypeScript Front End Refactoring](typescript-front-end-refactoring/) **: This problem presents a basic front end class that could use some refactoring and clean up.
+  * **[TypeScript Front End Refactoring](typescript-front-end-refactoring/)**: This problem presents a basic front end class that could use some refactoring and clean up.
